@@ -65,7 +65,7 @@ The smart contract manages:
 
 **GitHub Repository**: [https://github.com/ValentinJacobs/ConfidentialLegalFeeAllocation](https://github.com/ValentinJacobs/ConfidentialLegalFeeAllocation)
 
-### Demo Video
+### ConfidentialLegalFeeAllocation.mp4
 
 Watch our comprehensive demonstration showing:
 - Wallet connection and user authentication
@@ -76,9 +76,7 @@ Watch our comprehensive demonstration showing:
 - Viewing case statistics and history
 
 
-### On-Chain Transaction Screenshots
-
-
+### Transaction ConfidentialLegalFeeAllocation.png
 
 
 
